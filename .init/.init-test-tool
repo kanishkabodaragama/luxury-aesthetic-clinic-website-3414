@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/luxury-aesthetic-clinic-website-3414/clinic_frontend"
+}
